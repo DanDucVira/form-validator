@@ -6,7 +6,7 @@ a simple form validator
 
 - HTML
 - CSS
--Javascript
+- Javascript
 
 
 
