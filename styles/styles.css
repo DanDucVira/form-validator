@@ -25,40 +25,40 @@ body {
 .container {
   background: #fff;
   border-radius: 1rem;
-  -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
-          box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
-  width: 400px;
+  -webkit-box-shadow: 0 0.125rem 0.625rem rgba(0, 0, 0, 0.3);
+          box-shadow: 0 0.125rem 0.625rem rgba(0, 0, 0, 0.3);
+  width: 25rem;
 }
 
 h2 {
   text-align: center;
-  margin: 0 0 20px;
+  margin: 0 0 1.25rem;
   color: #6a8caf;
 }
 
 .form {
-  padding: 30px 40px;
+  padding: 1.875rem 2.5rem;
 }
 
 .form-control {
-  margin-bottom: 10px;
-  padding-bottom: 20px;
+  margin-bottom: 0.625rem;
+  padding-bottom: 1.25rem;
   position: relative;
 }
 
 .form-control label {
   color: #6a8caf;
   display: block;
-  margin-bottom: 5px;
+  margin-bottom: 0.3125rem;
 }
 
 .form-control input {
-  border: 2px solid #f0f0f0;
-  border-radius: 4px;
+  border: 0.125rem solid #f0f0f0;
+  border-radius: 0.25rem;
   display: block;
   width: 100%;
-  padding: 10px;
-  font-size: 14px;
+  padding: 0.625rem;
+  font-size: 0.875rem;
 }
 
 .form-control input:focus {
@@ -89,13 +89,13 @@ h2 {
 .form button {
   cursor: pointer;
   background: #6a8caf;
-  border: 2px solid #6a8caf;
-  border-radius: 4px;
+  border: 0.125rem solid #6a8caf;
+  border-radius: 0.25rem;
   color: #fff;
   display: block;
-  font-size: 16px;
-  padding: 10px;
-  margin-top: 20px;
+  font-size: 1rem;
+  padding: 0.625rem;
+  margin-top: 1.25rem;
   width: 100%;
 }
 /*# sourceMappingURL=styles.css.map */
